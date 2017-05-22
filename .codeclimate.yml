@@ -5,7 +5,6 @@ engines:
     enabled: true
     config:
       file_extensions: "php"
-      rulesets: "unusedcode,codesize,naming,optional_relative_path_to_custom_ruleset.xml"
 ratings:
   paths:
   - "**.php"
