@@ -1,0 +1,87 @@
+/* 
+custom css 
+*/
+.error 
+{
+    color: #ff0000;
+    font-size: 12px;
+    font-weight: 600;
+}
+.tabContainer{
+	padding: 20px 15px;
+	float: left;
+}
+.tabContainer .nav>li>a{
+	padding: 10px 35px;
+}
+.tabContainer .tab-content>.tab-pane{
+	padding: 15px 0 0 0;
+}
+.profiledetail .fileUpload{
+	background: none !important;
+	background-size: cover !important;
+	padding: 0;
+	margin: 0 auto;
+	height: 118px;
+	border: solid 2px #e41444;
+	border-radius: 100%;
+	overflow: visible;
+}
+.profiledetail .fileUpload:hover{
+	background: none !important;
+	background-size: cover !important;
+	border: solid 2px #e41444 !important;
+}
+.profiledetail .profileImgHover{
+	position: absolute;
+	width: 40px;
+    height: 40px;
+    bottom: -8px;
+    right: -5px;
+    z-index: 3;
+	background: none;
+	background-size: cover !important;
+}
+.profiledetail h2{
+	text-align: center;
+	margin-bottom: 40px;
+}
+.profiledetail:hover .profileImgHover{
+	background: url(../images/updateimg.png) no-repeat right bottom;
+	background-size: cover !important;
+}
+.profiledetail .fileUpload input.upload{
+	z-index: 4;
+}
+.profilepage .profiledetail a{
+	width: 114px;
+    height: 114px;
+    padding: 0;
+    position: relative;
+    overflow: hidden;
+}
+.profilepage .profiledetail a img{
+	width: 114px;
+    height: auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    border-radius: 0;
+}
+
+.profileImgHover{
+
+}
+
+/**17-2-2017**/
+.dropdown-notifications .notification-title{ display: block; }	
+.notification_img img{ width: 180px; height: auto; border-radius: 50%; background: #ddd; margin:0 auto; display: block;}
+
+@media only screen and (max-width: 599px) {
+.login_responsive{ float:none!important; width:auto!important; float:left!important; margin:10px 0 0 0!important }
+.notificationsdropdown{ margin-top: 12px!important }
+
+}

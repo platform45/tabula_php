@@ -1,0 +1,78 @@
+/*.form-group label{
+	float:left;
+	width:200px;
+	vertical-align:middle;
+	margin-top:10px;
+}*/
+.form-group label.info{
+	clear:both;
+	width:80%;
+	margin-left: 200px
+}
+
+.form-group label.form-group-info{
+	clear:both;
+	width:80%;
+	margin-left: 150px;
+}
+
+.form-group .form-group-image{
+	margin-left:200px;
+}
+
+.form-group-btn{
+	margin-left:120px;
+	float:right;
+}
+
+.form-group input, .form-group select{
+	/*float: left;
+    width: 300px;
+	height:40px;*/
+}
+
+.form-group {
+	/*display: inline-block;
+	float: left;
+    width: 100%;*/
+}
+
+.form-group textarea{
+	/*float: left;
+    width: 79%;*/
+	
+}
+
+/***************************For CMS**************************/
+
+#en_txtbrowsertitle, #en_txtpagetitle, #es_txtbrowsertitle, #es_txtpagetitle{
+	/*width:770px;*/
+}
+
+.form-group .form-url{
+	/*width:562px;*/
+}
+
+
+.form-group .form-control-input{
+	width:800px;
+}
+
+.form-group .form-control-label{
+	width:150px;
+}
+
+.form-group .form-textarea-title{
+	float:none;
+}
+
+
+/***************************For School**************************/
+
+.form-group .form-group-phone-label{
+	width:10px;margin:5px 10px 0px;
+}
+
+
+
+

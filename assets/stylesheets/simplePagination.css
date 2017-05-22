@@ -1,0 +1,97 @@
+
+
+ul.simple-pagination {
+	list-style: none;
+}
+
+.simple-pagination {
+    display: inline;
+    float: none;
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 0 5px 5px 0;
+    text-align: center;
+    width: auto
+	
+}
+
+.simple-pagination ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	float:left;
+}
+
+.simple-pagination li {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	float: left;
+}
+
+
+
+/*------------------------------------*\
+	Light Theme Styles
+\*------------------------------------*/
+
+.light-theme a, .light-theme span {
+	float: left;
+	color: rgb(153, 153, 153);
+	font-size:22px;
+	line-height:24px;
+	font-weight: normal;
+	font-family: "HoboStd";
+	text-align: center;
+	min-width: 14px;
+	padding: 0 7px;
+	margin: 0 5px 0 0;
+	
+}
+
+.light-theme a:hover {
+	text-decoration: none;
+	background: #FCFCFC;
+}
+
+.light-theme .current {
+	color: rgb(1,103,80);
+	cursor: default;
+}
+
+.light-theme .ellipse {
+	background: none;
+	border: none;
+	border-radius: 0;
+	box-shadow: none;
+	font-weight: bold;
+	cursor: default;
+}
+
+.pagination_outer{
+	display: inline-flex;
+    float: left;
+    width: 100%;
+	}
+
+.page_previous_next {
+	float: left;
+	color: rgb(1,103,80);
+	font-size:22px;
+	line-height:24px;
+	font-weight: normal;
+	font-family: "HoboStd";
+	text-align: center;
+	min-width: 14px;
+	padding: 0 7px;
+	margin: 0 5px 0 0;
+	cursor: pointer;
+	display:inline-block;
+	
+}
+
+
+
+#next_page {
+	float:right;
+}

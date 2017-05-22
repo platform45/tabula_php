@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/TabulaApp/!svn/ver/187/PHP/assets/front_end/scss/bootstrap/mixins
+END
+_progress-bar.scss
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/TabulaApp/!svn/ver/187/PHP/assets/front_end/scss/bootstrap/mixins/_progress-bar.scss
+END
+_nav-divider.scss
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/TabulaApp/!svn/ver/187/PHP/assets/front_end/scss/bootstrap/mixins/_nav-divider.scss
+END
+_center-block.scss
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/TabulaApp/!svn/ver/187/PHP/assets/front_end/scss/bootstrap/mixins/_center-block.scss
+END
+_opacity.scss
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/TabulaApp/!svn/ver/187/PHP/assets/front_end/scss/bootstrap/mixins/_opacity.scss
+END
+_size.scss
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/TabulaApp/!svn/ver/187/PHP/assets/front_end/scss/bootstrap/mixins/_size.scss
+END
+_grid-framework.scss
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/TabulaApp/!svn/ver/187/PHP/assets/front_end/scss/bootstrap/mixins/_grid-framework.scss
+END
+_gradients.scss
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/TabulaApp/!svn/ver/187/PHP/assets/front_end/scss/bootstrap/mixins/_gradients.scss
+END
+_vendor-prefixes.scss
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/TabulaApp/!svn/ver/187/PHP/assets/front_end/scss/bootstrap/mixins/_vendor-prefixes.scss
+END
+_background-variant.scss
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/TabulaApp/!svn/ver/187/PHP/assets/front_end/scss/bootstrap/mixins/_background-variant.scss
+END
+_image.scss
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/TabulaApp/!svn/ver/187/PHP/assets/front_end/scss/bootstrap/mixins/_image.scss
+END
+_panels.scss
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/TabulaApp/!svn/ver/187/PHP/assets/front_end/scss/bootstrap/mixins/_panels.scss
+END
+_responsive-visibility.scss
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/TabulaApp/!svn/ver/187/PHP/assets/front_end/scss/bootstrap/mixins/_responsive-visibility.scss
+END
+_nav-vertical-align.scss
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/TabulaApp/!svn/ver/187/PHP/assets/front_end/scss/bootstrap/mixins/_nav-vertical-align.scss
+END
+_tab-focus.scss
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/TabulaApp/!svn/ver/187/PHP/assets/front_end/scss/bootstrap/mixins/_tab-focus.scss
+END
+_grid.scss
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/TabulaApp/!svn/ver/187/PHP/assets/front_end/scss/bootstrap/mixins/_grid.scss
+END
+_text-overflow.scss
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/TabulaApp/!svn/ver/187/PHP/assets/front_end/scss/bootstrap/mixins/_text-overflow.scss
+END
+_forms.scss
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/TabulaApp/!svn/ver/187/PHP/assets/front_end/scss/bootstrap/mixins/_forms.scss
+END
+_pagination.scss
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/TabulaApp/!svn/ver/187/PHP/assets/front_end/scss/bootstrap/mixins/_pagination.scss
+END
+_alerts.scss
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/TabulaApp/!svn/ver/187/PHP/assets/front_end/scss/bootstrap/mixins/_alerts.scss
+END
+_hide-text.scss
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/TabulaApp/!svn/ver/187/PHP/assets/front_end/scss/bootstrap/mixins/_hide-text.scss
+END
+_text-emphasis.scss
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/TabulaApp/!svn/ver/187/PHP/assets/front_end/scss/bootstrap/mixins/_text-emphasis.scss
+END
+_table-row.scss
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/TabulaApp/!svn/ver/187/PHP/assets/front_end/scss/bootstrap/mixins/_table-row.scss
+END
+_clearfix.scss
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/TabulaApp/!svn/ver/187/PHP/assets/front_end/scss/bootstrap/mixins/_clearfix.scss
+END
+_buttons.scss
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/TabulaApp/!svn/ver/187/PHP/assets/front_end/scss/bootstrap/mixins/_buttons.scss
+END
+_resize.scss
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/TabulaApp/!svn/ver/187/PHP/assets/front_end/scss/bootstrap/mixins/_resize.scss
+END
+_labels.scss
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/TabulaApp/!svn/ver/187/PHP/assets/front_end/scss/bootstrap/mixins/_labels.scss
+END
+_border-radius.scss
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/TabulaApp/!svn/ver/187/PHP/assets/front_end/scss/bootstrap/mixins/_border-radius.scss
+END
+_reset-text.scss
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/TabulaApp/!svn/ver/187/PHP/assets/front_end/scss/bootstrap/mixins/_reset-text.scss
+END
+_list-group.scss
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/TabulaApp/!svn/ver/187/PHP/assets/front_end/scss/bootstrap/mixins/_list-group.scss
+END
+_reset-filter.scss
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/TabulaApp/!svn/ver/187/PHP/assets/front_end/scss/bootstrap/mixins/_reset-filter.scss
+END

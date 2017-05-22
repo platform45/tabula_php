@@ -1,0 +1,7 @@
+RewriteEngine on
+RewriteBase /~tabula
+#RewriteRule ^admin/(.*)$ index.php/admin/$1 [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^(.*)$ index.php?/$1 [L]
+RewriteCond %{REQUEST_METHOD} ^TRACE
+RewriteRule .* - [F]

@@ -1,0 +1,212 @@
+
+.form-group.marginClass.conference,.form-group.marginClass.overall{
+    float: left;
+    width: 45%;
+}
+
+.form-group.marginClass.conference label.error,.form-group.marginClass.overall label.error{
+    float: right;
+}
+
+.form-group.marginClass.conference label,.form-group.marginClass.overall label{
+    float: left;
+    width:112px;
+}
+
+.form-group.marginClass.conference .form-control,.form-group.marginClass.overall .form-control{
+    width:100px;
+    margin-left: 5px;
+    display: inline-block;
+}
+
+.addstanding .panel-body input.cancel-btn{
+    margin-left: 10px;
+}
+
+td.text-align-left{
+  text-align: left;  
+}
+
+td.text-align-center{
+    text-align: center;  
+}
+
+.form-group.marginClass.conference.hidepercent input{
+    margin-left: 3px;
+}
+.form-group.marginClass.conference.hidepercent label{
+    float: none;
+}
+
+#standingView_wrapper table.dataTable thead th.standing-school-head{
+    width:15% !important;
+    padding: 10px 8px;
+}
+#standingView_wrapper table.dataTable thead th.standing-season-head{
+     width:10% !important;
+    padding: 10px 8px;
+}
+
+.grid {
+    border: 1px solid rgb(1, 103, 80);
+	float: left;
+    overflow-x: auto;
+    overflow-y: hidden;
+    position: relative;
+    width: 100%;
+}
+
+.grid_in{
+    float: left;
+    width: 100%;
+}
+
+.grid .row_head{
+	width:100%;
+	float:left;
+	display:inline-flex;
+}
+
+.grid .row_head .col_1, .grid .row_head .col_3{
+	width:26%;
+	color: #002649;
+    float: left;
+    font: 18px/20px Arial,sans-serif;
+	min-height: 22px;
+    margin-bottom: 0;
+    padding: 5px 1%;
+	border-right:7px solid #002649;
+	text-align:center;
+}
+
+.grid .row_head .col_2{
+	width:34%;
+	color: #002649;
+    float: left;
+    font: 18px/20px Arial,sans-serif;
+	min-height: 22px;
+    margin-bottom: 0;
+    padding: 5px 1%;
+	border-right:7px solid #002649;
+	text-align:center;
+}
+
+.grid .row_head .col_4{
+	width:8%;
+	color: #002649;
+    float: left;
+    font: 18px/20px Arial,sans-serif;
+	min-height: 22px;
+    margin-bottom: 0;
+    padding: 5px 1%;
+	text-align:center;
+}
+
+.grid .row_tr{
+	width:100%;
+	float:left;
+	display:inline-flex;
+}
+
+.grid .grey{
+	background:#BFBFBF;
+}
+.grid .schoolname.white{
+    background:#EDEDED;
+}
+
+.grid .schoolname.grey{
+    background:#DBDBDB;
+}
+
+.grid .white{
+	background:#fff;
+}
+
+.grid .row_tr .col_1{
+   border-right: 7px solid #002649;
+    color: #002649;
+    float: left;
+    font: 16px/20px Arial,sans-serif;
+	min-height: 22px;
+    margin-bottom: 0;
+    padding: 5px 1%;
+    text-align: center;
+    width: 26%;
+}
+
+ .grid .row_tr .col_3{
+	width:26%;
+	color: #002649;
+    float: left;
+    font: 16px/20px Arial,sans-serif;
+	min-height: 22px;
+    margin-bottom: 0;
+    padding: 0 1%;
+	border-right:7px solid #002649;
+	text-align:center;
+	display:inline-flex;
+}
+
+.grid .row_tr .col_2{
+	width:34%;
+	color: #002649;
+    float: left;
+    font:bold 18px/20px  Arial, sans-serif;
+	min-height: 22px;
+    margin-bottom: 0;
+    padding: 0 1%;
+	border-right:7px solid #002649;
+	text-align:center;
+	display:inline-flex;
+}
+
+.grid .row_tr .col_2 .col_2_1{
+	width:22.6%;
+    float: left;
+    margin-bottom: 0;
+    padding: 5px 1%;
+	text-align:center;
+	border-right:1px solid #999;
+	font: 16px/20px Arial,sans-serif;
+	min-height: 22px;
+}
+
+.grid .row_tr .col_3 .col_3_1{
+	width:31%;
+    float: left;
+    margin-bottom: 0;
+    padding: 5px 1%;
+	text-align:center;
+	border-right:1px solid #999;
+	font: 16px/20px Arial,sans-serif;
+	min-height: 22px;
+}
+
+.grid .row_tr .col_2 .col_border_none{
+	border-right:none;
+}
+
+.grid .row_tr .col_3 .col_border_none{
+	border-right:none;
+}
+
+
+.grid .row_tr .col_4{
+	width:8%;
+	color: #002649;
+    float: left;
+    font: 18px/20px Arial,sans-serif;
+	min-height: 22px;
+    margin-bottom: 0;
+    padding: 5px 1%;
+	text-align:center;
+}
+
+#standingView_wrapper table.dataTable thead th.standing-playoff-head,
+#standingView_wrapper table.dataTable thead th.standing-status-head,
+#standingView_wrapper table.dataTable thead th.standing-edit-head,
+#standingView_wrapper table.dataTable thead th.standing-delete-head{
+    width:3% !important;
+    padding: 10px 8px;
+}

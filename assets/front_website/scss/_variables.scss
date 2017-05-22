@@ -1,0 +1,58 @@
+@include font-face("safyre", font-files( "safyre.eot?51608787#iefix", "safyre.woff","safyre.woff2", "safyre.ttf","safyre.svg#safyre" ), "safyre.eot", normal, normal );
+
+@include font-face("ubuntu", font-files( "ubuntu-l-webfont.eot?#iefix","ubuntu-l-webfont.woff2", "ubuntu-l-webfont.woff","ubuntu-l-webfont.ttf","ubuntu-l-webfont.svg#ubuntu-l-webfont" ), "ubuntu-l-webfont.eot", 300, normal );
+
+@include font-face("ubuntu", font-files( "ubuntu-r-webfont.eot?#iefix","ubuntu-r-webfont.woff2", "ubuntu-r-webfont.woff","ubuntu-r-webfont.ttf","ubuntu-r-webfont.svg#ubuntu-r-webfont" ), "ubuntu-r-webfont.eot", 400, normal );
+
+@include font-face("ubuntu", font-files( "ubuntu-m-webfont.eot?#iefix","ubuntu-m-webfont.woff2", "ubuntu-m-webfont.woff","ubuntu-m-webfont.ttf","ubuntu-m-webfont.svg#ubuntu-m-webfont" ), "ubuntu-m-webfont.eot", 500, normal );
+
+@include font-face("ubuntu", font-files( "ubuntu-b-webfont.eot?#iefix","ubuntu-b-webfont.woff2", "ubuntu-b-webfont.woff","ubuntu-b-webfont.ttf","ubuntu-b-webfont.svg#ubuntu-b-webfont" ), "ubuntu-b-webfont.eot", 700, normal );
+
+$black :#000000;
+$greyc :#686d76;
+$white :#FFFFFF;
+$red :#e30613;
+$ubuntu :'ubuntu';
+$voilet:#0f0017;
+$l_voilet:#2e0247;
+$yellow:#e4b656;
+
+
+[class^="icon-"]:before, [class*=" icon-"]:before {
+  font-family: "safyre";
+  font-style: normal;
+  font-weight: normal;
+  speak: none;
+  display: inline-block;
+  text-decoration: inherit;
+  width: 1em;
+  margin-right: .2em;
+  text-align: center;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1em;
+  margin-left: .2em;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+ 
+.icon-arrow-bottom:before { content: '\e800'; }
+.icon-arrow-left:before { content: '\e801'; }
+.icon-arrow-right:before { content: '\e802'; }
+.icon-arrow-top:before { content: '\e803'; }
+.icon-bottom:before { content: '\e804'; }
+.icon-bottom-thin:before { content: '\e805'; }
+.icon-clock:before { content: '\e806'; }
+.icon-facebook:before { content: '\e807'; }
+.icon-left:before { content: '\e808'; }
+.icon-left-thin:before { content: '\e809'; }
+.icon-minus:before { content: '\e80a'; }
+.icon-play:before { content: '\e80b'; }
+.icon-plus:before { content: '\e80c'; }
+.icon-right:before { content: '\e80d'; }
+.icon-right-thin:before { content: '\e80e'; }
+.icon-search:before { content: '\e80f'; }
+.icon-share:before { content: '\e810'; }
+.icon-top:before { content: '\e811'; }
+.icon-top-thin:before { content: '\e812'; }
+.icon-twitter:before { content: '\e813'; }
